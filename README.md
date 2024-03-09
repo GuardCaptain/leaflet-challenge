@@ -1,5 +1,4 @@
 # leaflet-challenge
-Module 15 Challenge
 
 In this challenge, we will be creating a visualization of the earthquake data provided by the USGS (United States Geologcal Survey).
 
